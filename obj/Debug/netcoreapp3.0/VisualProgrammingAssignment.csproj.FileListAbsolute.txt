@@ -1,0 +1,11 @@
+C:\Users\basit\source\repos\VisualProgrammingAssignment\bin\Debug\netcoreapp3.0\VisualProgrammingAssignment.exe
+C:\Users\basit\source\repos\VisualProgrammingAssignment\bin\Debug\netcoreapp3.0\VisualProgrammingAssignment.deps.json
+C:\Users\basit\source\repos\VisualProgrammingAssignment\bin\Debug\netcoreapp3.0\VisualProgrammingAssignment.runtimeconfig.json
+C:\Users\basit\source\repos\VisualProgrammingAssignment\bin\Debug\netcoreapp3.0\VisualProgrammingAssignment.runtimeconfig.dev.json
+C:\Users\basit\source\repos\VisualProgrammingAssignment\bin\Debug\netcoreapp3.0\VisualProgrammingAssignment.dll
+C:\Users\basit\source\repos\VisualProgrammingAssignment\bin\Debug\netcoreapp3.0\VisualProgrammingAssignment.pdb
+C:\Users\basit\source\repos\VisualProgrammingAssignment\obj\Debug\netcoreapp3.0\VisualProgrammingAssignment.csprojAssemblyReference.cache
+C:\Users\basit\source\repos\VisualProgrammingAssignment\obj\Debug\netcoreapp3.0\VisualProgrammingAssignment.AssemblyInfoInputs.cache
+C:\Users\basit\source\repos\VisualProgrammingAssignment\obj\Debug\netcoreapp3.0\VisualProgrammingAssignment.AssemblyInfo.cs
+C:\Users\basit\source\repos\VisualProgrammingAssignment\obj\Debug\netcoreapp3.0\VisualProgrammingAssignment.dll
+C:\Users\basit\source\repos\VisualProgrammingAssignment\obj\Debug\netcoreapp3.0\VisualProgrammingAssignment.pdb
